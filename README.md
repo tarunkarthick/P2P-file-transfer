@@ -1,0 +1,1 @@
+P2P file transfer, a peer to peer file sharing application built using socket programming in python.Here it allows the peers to access multimedia files like videos,images and mp3 etc.The architecture used here is Centralized Directory architecture.
